@@ -1,0 +1,5 @@
+{
+  "name": "CodeDump from ZIP",
+  "description": "A web-based utility to generate a Markdown 'codedump' from a ZIP archive of a project. It allows filtering files, handling binaries, and configuring the output, similar to a command-line tool.",
+  "requestFramePermissions": []
+}
